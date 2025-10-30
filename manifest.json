@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Gom.Smal.ShAp",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/Gom.Smal.ShAp",
+  "notes": "No mains"
+}
